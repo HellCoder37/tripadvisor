@@ -1,0 +1,51 @@
+.ad-logo{
+    padding-left: 165px;
+}
+.logo-img{
+    width: 300px;
+    padding-left: 46px;
+}
+.nav-down{
+    margin: -11px;
+    margin-bottom: -25px;
+}
+.jump-tab{
+    color: rgb(135 130 114 / 58%);
+    font-size: 13px;
+    margin: -10px;
+    margin-left: 3px;
+}
+.jump-tab-2{
+    color: rgb(135 130 114 / 58%);
+    font-size: 13px;
+    margin: -10px;
+    margin-left: 470px;
+}
+.h1-d{
+    text-align: center;
+    margin: 20px;
+}
+/* .cardPara{
+    font-size: 160px;
+    margin-top: -175px;
+    margin-bottom: -30px;
+    text-indent: -15px;
+    letter-spacing:-15px;
+} */
+.box{
+    border: 1px solid rgba(170, 170, 170, 0.555);
+    width: 300px;
+    height: 700px;
+    background-color: white;
+    margin-top: 13px;
+    margin-left: 20px;
+    padding: 22px;
+    border-radius: 5px;
+}
+.chkbox{
+    width: 16px;
+    height: 22px;
+}
+.asidePara{
+    margin-bottom: 5px;
+}
